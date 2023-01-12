@@ -29,7 +29,7 @@ body {
 
 #navbar::after {
   background-size: 150%;
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/rip.svg") bottom center;
+  background: url("/assets/bg.svg") bottom center;
   content: "";
   height: 20px;
   left: 0;
@@ -91,7 +91,7 @@ body {
 
 #home::after {
   background-size: 150%;
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/rip.svg") bottom center;
+  background: url("/assets/bg.svg") bottom center;
   content: "";
   height: 20px;
   left: 0;
@@ -278,7 +278,7 @@ body {
 
 #projects::after {
   background-size: 150%;
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/rip.svg") bottom center;
+  background: url("/assets/bg.svg") bottom center;
   content: "";
   height: 20px;
   left: 0;

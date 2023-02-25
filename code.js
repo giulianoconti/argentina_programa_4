@@ -110,7 +110,7 @@ const handleNext = () => {
 };
 
 /* fetch projects */
-fetch("https://giuliannt.github.io/api/myProjects.json")
+fetch("https://giulianoconti.github.io/api/myProjects-es.json")
   .then((response) => response.json())
   .then((data) => {
     data.forEach((project) => {
